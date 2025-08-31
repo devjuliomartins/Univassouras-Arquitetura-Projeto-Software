@@ -1,2 +1,5 @@
 # Project exclude paths
 /target/
+
+# Ignorar pasta do IntelliJ
+.idea/
