@@ -34,6 +34,7 @@ public class ConversorDeMoeda {
 
         double convertido = valor * taxa;
 
+        // Aplica desconto para conversão entre duas moedas estrangeiras.
         if (!de.equalsIgnoreCase("BRL") && !para.equalsIgnoreCase("BRL")) {
             convertido *= 0.989;
         }
