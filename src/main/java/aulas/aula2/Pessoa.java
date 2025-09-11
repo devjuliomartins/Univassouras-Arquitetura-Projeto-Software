@@ -1,4 +1,4 @@
-package aulas.aula1;
+package aulas.aula2;
 
 public class Pessoa {
 

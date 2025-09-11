@@ -1,6 +1,5 @@
-package aulas.aula1;
+package aulas.aula2;
 
-import aulas.aula1.Pessoa;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
