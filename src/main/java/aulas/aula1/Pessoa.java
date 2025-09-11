@@ -1,4 +1,4 @@
-package exercicioTesteUnitario;
+package aulas.aula1;
 
 public class Pessoa {
 
